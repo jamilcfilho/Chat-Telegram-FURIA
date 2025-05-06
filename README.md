@@ -80,6 +80,11 @@ O fluxo do chat funciona da seguinte maneira:
 
 Após a seleção de qualquer uma dessas opções, o chat oferece possibilidade de "Voltar ao menu principal" para continuar a interação do usuário com o chat.
 
-## Observações
+## 📄 Observações
 - Durante os testes, substituia o texto "USAR TOKEN AQUI" pelo token adquirido pelo BotFather.
 - O código é modular, organizado e com funções, facilitando futuras melhorias e manutenções.
+
+
+## 📸 Imagens do Projeto
+
+![Imagem 1](imagens/Inicio_Chat_Telegram.jpg) ![Imagem 2](imagens/Confirmacao_nome.jpg) ![Imagem 3](imagens/Menu_principal.jpg) ![Imagem 4](imagens/Informacoes_gerais.jpg)
